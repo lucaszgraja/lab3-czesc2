@@ -1,0 +1,249 @@
+body
+{
+
+background-color: #003366;
+
+}
+
+.container
+
+{
+
+	width: 100%;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+.look
+{
+
+float:left;
+text-align: center;
+padding: 10px;
+
+}
+.logo
+
+{
+
+	width: 100%;
+	padding: 8px 0;
+	min-height:250px;
+	background-color: #FFF;
+	text-align: center;
+	font-size: 30px;
+	color: #3399ff;
+	font-family: Tahoma;
+	font-weight: bold;
+	
+
+}
+
+.containermenu
+
+{
+
+	width:500px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+
+.menu
+
+{
+
+	width: 100%;
+	padding: 8px 0;
+	min-height:50px;
+	background-color: #3399ff;
+	text-align: center;
+
+}
+.mapa
+{
+
+	width: 100%;
+	padding: 8px 0;
+	min-height:200px;
+	background-color: #3366ff;
+	text-align: center;
+
+
+}
+
+
+
+.baner
+
+{
+
+	width: 100%;
+	min-height:210px;
+	text-align: center;
+	background-repeat: repeat-x;
+	background-image: url(chopin.jpg);
+
+}
+
+.naglowek
+{
+
+  
+	width:100%;
+	background-color: #FFFFFF;
+	font-size: 20px;
+	font-weight: bold;
+	text-align:center;
+	
+	
+
+}
+
+
+.nag1
+
+{
+
+	
+	min-height:200px;
+	text-align:center;
+	
+	color: black;
+	margin: 0 auto;
+	width: 28%;
+	float:left;
+
+}
+
+.nag2
+
+{
+
+
+	min-height:300px;
+	text-align:left;
+	
+	color: white;
+	width: 38%;
+	margin: 0 auto;
+	float:left;
+	
+
+}
+
+
+.nag3
+
+{
+
+
+	min-height:300px;
+	text-align:left;
+	
+	color: white;
+	width: 34%;
+	margin: 0 auto;
+	float:left;
+	
+
+}
+
+
+.galeria
+{
+
+
+background-color: grey;
+text-align: center;
+width: 100%;
+}
+
+.galeriain
+{
+
+margin: auto;
+	max-width: 900px;
+	text-align: center;
+}
+
+
+
+
+
+
+.container2
+{
+
+	width:100%;
+	background-color: #FFF;
+	font-size: 20px;
+	font-weight: bold;
+	text-align:center;
+
+}
+
+
+.zdjecie
+{
+
+	min-height:200px;
+	text-align:center;
+	background-color: #003366;
+	color: white;
+	margin: 0 auto;
+	width: 30%;
+	float:left;
+
+}
+
+.opis
+{
+
+	min-height:200px;
+	text-align:justify;
+	background-color: #003366;
+	color: white;
+	margin: 0 auto;
+	width: 70%;
+	float:left;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.stopka
+{
+
+width:100%;
+min-height: 40px;
+background-color: #330099;
+text-align: center;
+clear: both;
+color: white;
+padding-top: 15px;
+font-weight: bold;
+
+
+}
+
+a
+{
+
+color: white;
+font-weight: bold;
+font-size: 14px;
+text-decoration: none; 
+}
+
+h2
+{
+
+font-size:20px;
+font-weight: bold;
+color:white;
+}
+

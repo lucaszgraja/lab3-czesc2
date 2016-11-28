@@ -1,0 +1,195 @@
+body
+{
+
+background-color: #003366;
+
+}
+
+.container
+
+{
+
+	width: 100%;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+
+.look
+{
+
+float:left;
+text-align: center;
+padding: 10px;
+
+}
+.logo
+
+{
+
+	width: 100%;
+	padding: 8px 0;
+	min-height:250px;
+	background-color: black;
+	text-align: center;
+	font-size: 30px;
+	color: #3399ff;
+	font-family: Tahoma;
+	font-weight: bold;
+	
+
+}
+
+.containermenu
+
+{
+
+	width:500px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+
+.menu
+
+{
+
+	width: 100%;
+	padding: 8px 0;
+	min-height:50px;
+	background-color: #3399ff;
+	text-align: center;
+
+}
+
+.baner
+
+{
+
+	width: 100%;
+	
+	min-height:250px;
+	background-repeat: repeat-x;
+	background-image: url(chmury.jpg);
+	text-align: center;
+	color: white;
+	font-size: 20p;
+	
+
+}
+
+h2
+{
+
+font-size:20px;
+font-weight: bold;
+}
+
+.naglowek
+{
+
+  
+	width:100%;
+	font-size: 16px;
+	
+	text-align:center;
+	
+	
+
+}
+
+
+.nag1
+
+{
+
+	
+	min-height:400px;
+	text-align:center;
+	margin: 0 auto;
+	width: 50%;
+	float:left;
+	color: white;
+
+
+}
+
+.nag2
+
+{
+
+
+	min-height:400px;
+	text-align:center;
+	color: white;
+	width: 50%;
+	margin: 0 auto;
+	float:left;
+	
+	
+
+}
+
+.galeria
+{
+
+
+
+text-align: center;
+width: 100%;
+padding: 10px;
+
+}
+
+.galeriain
+{
+
+margin: auto;
+
+max-width: 900px;
+text-align: center;
+	
+}
+
+
+
+
+.kolumna
+{
+
+float:left;
+	text-align:center;
+	
+}
+
+
+
+.stopka
+{
+
+width:100%;
+min-height: 40px;
+background-color: #330099;
+text-align: center;
+clear: both;
+color: white;
+padding-top: 15px;
+font-weight: bold;
+
+
+}
+
+
+a
+{
+
+color: white;
+font-weight: bold;
+font-size: 14px;
+text-decoration: none; 
+}
+
