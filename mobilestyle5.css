@@ -1,0 +1,150 @@
+body 
+	{
+		
+		background: #003366;
+		margin: 0 !important;
+		
+	}
+	
+	.logo
+	
+	{
+	
+		width: 20%;
+		text-align: center;
+		padding-bottom: 10px;
+		width: auto;
+		background-color:#fff;
+		font-size: 30px;
+		color: #3399ff;
+		font-family: Tahoma;
+		font-weight: bold;
+		padding-top: 15px;
+		
+	
+	}
+	
+	.menu
+	{
+	
+		width: 100%;
+		text-align: center;
+		background-color: white;
+
+		
+	
+	
+	}
+	
+.look
+{
+
+background-color: #3399ff;
+border-bottom: 1px solid white;
+padding: 5px;
+
+
+}
+
+a
+{
+text-decoration: none;
+color: white;
+font-weight: bold;
+
+}
+
+.baner
+
+{
+
+	width: 100%;
+	
+	min-height:210px;
+	background-repeat: repeat-x;
+	background-image: url(katowice2.jpg);
+	
+	
+	
+
+}
+
+.nag1
+{
+
+text-align: center;
+color: white;
+padding: 20px;
+
+
+}
+
+.nag2
+{
+
+text-align: justify;
+color: white;
+padding: 20px;
+
+}
+
+.nag3
+{
+
+text-align: justify;
+color: white;
+padding: 20px;
+
+}
+
+h2
+
+{
+
+text-align: center;
+
+}
+
+
+.kolumna img
+{
+	width:48%;
+	display:inline-block;
+	float: left;
+	padding: 1%;
+}
+
+.stopka
+{
+
+width:100%;
+min-height: 40px;
+background-color: #330099;
+text-align: center;
+clear: both;
+color: white;
+padding-top: 15px;
+font-weight: bold;
+
+
+}
+
+.zdjecie
+
+{
+
+text-align: center;
+
+color:white;
+
+}
+
+.opis
+
+{
+
+text-align: justify;
+padding: 20px;
+color:white;
+
+}
